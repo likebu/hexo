@@ -8,7 +8,7 @@ logo:
 
 flag:
   - name: Chinese
-    default: true
+    default: false
     icon: flag-cn
     index: /index.html
 
